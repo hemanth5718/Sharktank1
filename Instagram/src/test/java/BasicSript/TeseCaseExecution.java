@@ -10,4 +10,10 @@ public class TeseCaseExecution
 		System.out.println("TestCase Execution");
 	}
 
+
+
+@Test
+public void test() {
+	System.out.println("hemanth");
+}
 }
